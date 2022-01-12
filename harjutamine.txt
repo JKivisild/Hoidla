@@ -1,2 +1,3 @@
 GitHub pakub veebimajandusteenust tarkvaraarenduseks.
 Seda kasutavad õpilased. 
+Mina saaksin GitHubi kasutada selleks, et ma saaks kuhugi oma kood salvestada.
