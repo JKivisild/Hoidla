@@ -1,2 +1,2 @@
-GitHub pakub veebimajandusteenust tarkvaraarenduseks.
-Seda kasutavad õpilased. 
+Mina saaksin GitHubi kasutada selleks, et ma saaks kuhugi oma kood salvestada.
+GitHub asutati aastal 2008 8. veebruaril. Selle asutajadeks olid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon. GitHubi teenus oli kättesaadav 2008 10. aprilil.
